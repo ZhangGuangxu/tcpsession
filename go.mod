@@ -1,4 +1,4 @@
-module tcpsession
+module github.com/ZhangGuangxu/tcpsession
 
 go 1.12
 
